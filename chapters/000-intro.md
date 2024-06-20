@@ -1,26 +1,19 @@
 # 0. NodeJS Training Introduction
 
-## Description 
-First, I would like to start by emphasizing with reader that the following read is quite verbose, but I would like to ask that you read the following carefully.
-
-This is a roadmap/training for a introduction into the Node.js Framework consisting of several steps.
-In each step, a set of theoretical concepts are explored, supported by reference documentation, book chapters, tutorials and videos. 
-
-In parallel, a simple application will be built with the learned concepts: the *Online Shop* application.
-After the learning material for a given step was sufficiently explored either some new functionality will be added to this application or old functionality will be refactored.
-
 ## Working Mode
 
-The road-map consists of several steps. In each step, a set of theoretical concepts are explored, supported by reference documentation, book chapters, tutorials and videos. In parallel, a simple application will be built with the learned concepts: the *Online Shop* application.
+The following text is quite verbose, but we ask that you read it carefully.
 
-After the learning material for a given step was sufficiently explored, either some new functionality will be added to this application or old functionality will be refactored.
+This training provides an introduction to the Node.js framework, consisting of several steps. In each step, a set of theoretical concepts is explored, supported by reference documentation, book chapters, tutorials, and videos.
 
-The application will have little-to-no user interface. Developers are expected to perform developer tests with Postman once the REST APIs are implemented.
+In parallel, a simple application—the _Online Shop_—will be built using the learned concepts. After the learning material for a given step has been sufficiently explored, either new functionality will be added to this application or existing functionality will be refactored.
+
+The application will have little to no user interface. Developers are expected to perform API tests using Postman once the REST APIs are implemented.
 
 All the code written must be published on GitHub.
 
 - Create your own repository on your personal account and give access to your mentor (make sure you specify your name in case you have an esoteric username).
-- Commits must be pushed when each individual chapter is finished. 
+- Commit messages should be suggestive of the changes made. You can push the commits when each individual chapter is finished. 
 - [Create](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository) a `develop` branch from the `master` branch **before starting work**.
 - **In order to request a code review from the mentors**, you must [open a pull request](https://help.github.com/en/articles/creating-a-pull-request) from the `develop` to the `master` branch. Inform them in your **daily standup** of this or through a PM.
 - **Once the Pull Request is approved** by the mentors, merge it into `main` and create another branch from master to continue work.
