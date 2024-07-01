@@ -15,9 +15,9 @@ All the code written must be published on GitHub.
 - Create your own repository on your personal account and give access to your mentors (make sure you specify your name in case you have an esoteric username).
 - Commit messages should be suggestive of the changes made. You can push the commits when each individual chapter is finished. 
 - [Create](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository) a `develop` branch from the `main` branch **before starting work**.
-- In order to request a **code review** from the mentors, you must [open aPull Request](https://help.github.com/en/articles/creating-a-pull-request) from the `develop` to the `main` branch. Inform them in your **daily standup** of this or through a PM.
+- In order to request a **code review** from the mentors, you must [open a Pull Request](https://help.github.com/en/articles/creating-a-pull-request) from the `develop` to the `main` branch. Inform them in your **daily standup** of this or through a PM.
 - Once the Pull Request is **approved** by the mentors, merge it into `main`.
-- Continue your work on the `develop` branch. Open a Pull Request when you want to request another code review and merge it into `main` after it is approved.
+- Create a new branch from `main` or continue your work on the `develop` branch. Open a Pull Request when you want to request another code review and merge it into `main` after it is approved.
 - Repeat as necessary until the training has ended.
 
 
@@ -27,16 +27,16 @@ This timeline is just for guidance; take time to understand the concepts before 
 
 - **Day 1**: Chapter 0, Chapter 1, Chapter 2
 - **Day 2**: Chapter 3
-- **Day 3**: Chapter 4, 
+- **Day 3**: Chapter 4 
 - **Day 4**: Chapter 5
-- **Day 5**: Chapter 5, Chapter 6, **Open a Pull Request**, Fix Review Remarks → Merge to `main` → Continue your work on `develop`,
+- **Day 5**: Chapter 5, Chapter 6, **Open a Pull Request**, Fix Review Remarks → Merge to `main` → Create a new branch
 - **Day 6**: Chapter 7
-- **Day 7**: Chapter 8, **Open a Pull Request**, Fix Review Remarks → Merge to `main` → Continue your work on `develop`
+- **Day 7**: Chapter 8, **Open a Pull Request**, Fix Review Remarks → Merge to `main` → Create a new branch
 - **Day 8**: Chapter 9, Optional Chapters or Fix Review Remarks/Refactor Code
 
 ## Notes
 
-- If you find any link broken, **please** inform  your mentors to provide you with an alternative.
+- If you find any link broken, **please** inform your mentors to provide you with an alternative.
 - Try to speed up the videos to *1.5x/2x* if you find them too slow.
 
 ## Environment Setup
